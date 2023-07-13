@@ -9,12 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/SiclaitGitHub/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SiclaitGitHub/azure-network-protocols)
-- Vulnerability Management 
-  - [QulaysGuard Vulnerability Scanner](https://github.com/SiclaitGitHub/configure-ad)
-  - [Nessus Vulnerablity Scanner](https://github.com/SiclaitGitHub/nessus-scanner)    
-- SEIM
-  - [Configuring Active Directory within Azure VMs](https://github.com/SiclaitGitHub/SEIM)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SiclaitGitHub/azure-network-protocols)
+
 
 <h2>🤳Connect with me:</h2>
 
