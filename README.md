@@ -10,9 +10,8 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/SiclaitGitHub/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SiclaitGitHub/azure-network-protocols)
 - <b>Vulnerability Management</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Qualys Vulnerability Scanner](https://github.com/SiclaitGitHub/qualys-scanner)
+  - [Nessus Vulnerability Scanner](https://github.com/SiclaitGitHub/nessus-scanner)
 - <b>SEIM</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
