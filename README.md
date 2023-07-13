@@ -12,7 +12,7 @@
 - <b>Qualys Gaurd - Vulnerability Management</b>
   - [Qualys Vulnerability Scanner Installation](https://github.com/SiclaitGitHub/qualys-scanner)
   - - [Qualys Vulnerability Scanner Deployment](https://github.com/SiclaitGitHub/qualys-deployment)
-- <b>Nessus</b>
+- <b>Nessus - Vulnerability Management</b>
   - [Nessus Vulnerability Scanner Installation](https://github.com/SiclaitGitHub/nessus-scanner)
   - [Nessus Vulnerability Scanner Deployment](https://github.com/SiclaitGitHub/nessus-deployment)
 - <b>Azure Sentinel</b>
