@@ -1,6 +1,6 @@
 <h1>Hi, I'm Philippe Siclait, an <a href="https://www.linkedin.com/in/philippe-henry-siclait-6aa54375/">IT Professional</a></h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology & Cyber Security Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/SiclaitGitHub/osticket-prereqs)
