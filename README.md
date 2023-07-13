@@ -14,7 +14,7 @@
   - [Qualys Vulnerability Scanner Configuration and Deployment](https://github.com/SiclaitGitHub/qualys-deployment)
 - <b>Nessus - Vulnerability Management</b>
   - [Nessus Vulnerability Scanner Installation](https://github.com/SiclaitGitHub/nessus-scanner)
-  - [Nessus Vulnerability Scanner Deployment](https://github.com/SiclaitGitHub/nessus-deployment)
+  - [Nessus Vulnerability Scanner Configuration and Deployment](https://github.com/SiclaitGitHub/nessus-deployment)
 - <b>Azure Sentinel - SIEM</b>
   - [Azure Sentinel Installation](https://github.com/SiclaitGitHub/azure-sentiel)
   - [Azure Sentinel Configuration and Deployment](https://github.com/SiclaitGitHub/azure-sentinel--deployment)
