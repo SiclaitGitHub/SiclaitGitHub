@@ -15,7 +15,7 @@
 - <b>Nessus - Vulnerability Management</b>
   - [Nessus Vulnerability Scanner Installation](https://github.com/SiclaitGitHub/nessus-scanner)
   - [Nessus Vulnerability Scanner Deployment](https://github.com/SiclaitGitHub/nessus-deployment)
-- <b>Azure Sentinel</b>
+- <b>Azure Sentinel - SIEM</b>
   - [Azure Sentinel Installation](https://github.com/SiclaitGitHub/azure-sentiel)
   - [Azure Sentinel Deployment](https://github.com/SiclaitGitHub/azure-sentinel--deployment)
  
