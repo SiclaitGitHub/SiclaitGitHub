@@ -11,13 +11,13 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SiclaitGitHub/azure-network-protocols)
 - <b>Qualys Gaurd - Vulnerability Management</b>
   - [Qualys Vulnerability Scanner Installation](https://github.com/SiclaitGitHub/qualys-scanner)
-  - [Qualys Vulnerability Scanner Deployment](https://github.com/SiclaitGitHub/qualys-deployment)
+  - [Qualys Vulnerability Scanner Configuration and Deployment](https://github.com/SiclaitGitHub/qualys-deployment)
 - <b>Nessus - Vulnerability Management</b>
   - [Nessus Vulnerability Scanner Installation](https://github.com/SiclaitGitHub/nessus-scanner)
   - [Nessus Vulnerability Scanner Deployment](https://github.com/SiclaitGitHub/nessus-deployment)
 - <b>Azure Sentinel - SIEM</b>
   - [Azure Sentinel Installation](https://github.com/SiclaitGitHub/azure-sentiel)
-  - [Azure Sentinel Deployment](https://github.com/SiclaitGitHub/azure-sentinel--deployment)
+  - [Azure Sentinel Configuration and Deployment](https://github.com/SiclaitGitHub/azure-sentinel--deployment)
  
 
 
