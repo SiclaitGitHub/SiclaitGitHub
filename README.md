@@ -9,7 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/SiclaitGitHub/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SiclaitGitHub/azure-network-protocols)
-- <b>Qualys Gaurd - Vulnerability Management</b>
+- <b>Qualys Cloud Platform - Vulnerability Management</b>
   - [Qualys Vulnerability Scanner Installation](https://github.com/SiclaitGitHub/qualys-scanner)
   - [Qualys Vulnerability Scanner Configuration and Deployment](https://github.com/SiclaitGitHub/qualys-deployment)
 - <b>Nessus - Vulnerability Management</b>
@@ -18,6 +18,7 @@
 - <b>Azure Sentinel - SIEM</b>
   - [Azure Sentinel Installation](https://github.com/SiclaitGitHub/azure-sentiel)
   - [Azure Sentinel Configuration and Deployment](https://github.com/SiclaitGitHub/azure-sentinel--deployment)
+
  
 
 
