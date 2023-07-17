@@ -9,6 +9,9 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/SiclaitGitHub/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SiclaitGitHub/azure-network-protocols)
+- <b>Pulumi</b>
+  - [Pulumi Installation](https://github.com/SiclaitGitHub/pulumi)
+  - [Pulumi Configuration and Deployment](https://github.com/SiclaitGitHub/pulumi-build)
 - <b>Qualys Cloud Platform - Vulnerability Management</b>
   - [Qualys Vulnerability Scanner Installation](https://github.com/SiclaitGitHub/qualys-scanner)
   - [Qualys Vulnerability Scanner Configuration and Deployment](https://github.com/SiclaitGitHub/qualys-deployment)
